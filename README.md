@@ -1,7 +1,6 @@
 
 ### Infos
 * 👀 All my work is open source 👀
-* 🙂 My preferred pronouns are: He/Him
 * I'm French 🇫🇷 and I come from Normandy 🏴󠁦󠁲󠁮󠁯󠁲󠁿
 
 #### Tech preferences
