@@ -13,3 +13,4 @@
 
 <a href=#><img src="contributions.svg"></a>
 ![Cromha's GitHub stats](https://github-readme-stats.vercel.app/api?username=OcelotWalrus&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OcelotWalrus)](https://github.com/OcelotWalrus/github-readme-stats)
