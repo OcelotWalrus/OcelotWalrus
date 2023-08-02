@@ -13,3 +13,4 @@
 |📝| **Editor**           | [Visual Studio Code Insiders](https://github.com/Microsoft/vscode)|
 
 <a href=#><img src="contributions.svg"></a>
+![Cromha's GitHub stats](https://github-readme-stats.vercel.app/api?username=OcelotWalrus&show_icons=true&theme=dark)
