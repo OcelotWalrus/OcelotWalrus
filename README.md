@@ -12,5 +12,5 @@
 |📝| **Editor**           | [Visual Studio Code Insiders](https://github.com/Microsoft/vscode)|
 
 <a href=#><img src="contributions.svg"></a>
-[![Cromha's GitHub stats](https://github-readme-stats.vercel.app/api?username=OcelotWalrus&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OcelotWalrus&show_private=true&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Cromha's GitHub stats](https://github-readme-stats.vercel.app/api?username=OcelotWalrus&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OcelotWalrus&theme=nord&show_private=true&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
