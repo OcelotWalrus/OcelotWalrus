@@ -5,6 +5,7 @@
 * I can use [Blender](https://www.blender.org/) for simple stuff
 * I'm currently developing my C++ capabilities
 * I'm currently working on my own python ascii console game [Bane Of Wargs](https://github.com/Dungeons-of-Kathallion/Bane-Of-Wargs)
+* I'm current an active contributor of the [Silver Terminal Mockup](https://github.com/Monarchz3ro/Silver)
 
 #### Tech preferences
 
