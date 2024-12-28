@@ -13,7 +13,7 @@
 
 | |                       |                                                           |
 |-|-----------------------|-----------------------------------------------------------|
-|🖥| **Operating System** | [Fedora Workstation 40](https://fedoraproject.org/workstation/)|
+|🖥| **Operating System** | [Fedora Workstation 41](https://fedoraproject.org/workstation/)|
 |📺| **Terminal**         | [Gnome Terminal](https://github.com/GNOME/gnome-terminal)|
 |🐚| **Shell**            | [Oh-My-Zsh](https://github.com/ohmyzsh/ohmyzsh)|
 |📝| **Editor**           | [Visual Studio Code Insiders](https://github.com/Microsoft/vscode)|
