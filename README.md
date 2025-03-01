@@ -3,6 +3,7 @@
 * 👀 All my work is open source 👀
 * I can use [Blender](https://www.blender.org/) for simple stuff
 * I'm currently developing my flying and dogfighting capabilities with [Flight Gear](https://www.flightgear.org/) fligt sim
+* I'm currently developing the [F-15EX](https://github.com/OcelotWalrus/F-15) for FlightGear
 * I like **The Lord Of The Rings** and you may see references to it in my projects
 * I'm a punk
 * I *used to* regularly contribute to the open source game [Endless Sky](https://github.com/endless-sky/endless-sky)
