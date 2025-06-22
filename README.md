@@ -8,7 +8,7 @@
 * I'm a punk
 * I *used to* regularly contribute to the open source game [Endless Sky](https://github.com/endless-sky/endless-sky)
 * I'm currently working *from time to time* on my own python ascii console game [Bane Of Wargs](https://github.com/Dungeons-of-Kathallion/Bane-Of-Wargs)
-* I'm currently *from time to time* an active contributor of the [OpenHV](https://github.com/OpenHV/OpenHV) RTS sci-fi game
+* I'm currently *from time to time* an active contributor of the [OpenHV](https://github.com/OpenHV/OpenHV) RTS sci-fi game, fixin' to release a [third faction](https://github.com/OcelotWalrus/CromhaHV/tree/tyrian-federation-faction)
 
 #### Tech preferences
 
